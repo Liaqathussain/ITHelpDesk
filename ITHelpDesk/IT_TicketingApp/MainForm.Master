@@ -1,0 +1,160 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="MainForm.master.vb" Inherits="IT_TicketingApp.MainForm" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style2
+        {
+            height: 60px;
+            width: 835px;
+        }
+        .style4
+        {
+            width: 143px;
+        }
+        .style5
+        {
+            width: 270px;
+        }
+        .style6
+        {
+            width: 206px;
+        }
+        .style7
+        {
+            width: 191px;
+        }
+        </style>
+</head>
+<body>
+    <div align="center">
+    <form id="form1" runat="server" 
+    style="width: 1016px;">
+       <telerik:RadScriptManager ID="ScriptManager1" runat="server" 
+           EnableTheming="True">
+       </telerik:RadScriptManager>
+    <telerik:RadSkinManager ID="RadSkinManager1" runat="server">
+    </telerik:RadSkinManager>
+    <div align="left" 
+           style="height:200px; width: 1000px; background-image: url('/Resources/Banner1.jpg');">
+    
+        <table  
+            style="width: 1000px; height: 192px;">
+            <tr>
+                <td align="left"  class="style2" 
+                    
+                    style="font-family: Arial; font-size: xx-large; font-weight: bold; font-style: normal; color: #FFFFFF; " >
+                    &nbsp;&nbsp;&nbsp;&nbsp; 
+                    </td>
+            </tr>
+        </table>
+        </div>
+       <div align="left"  style="width: 1000px;">
+    <table style="width: 1000px; font-size: 12px;">
+        <tr>
+            <td align="right" 
+                style="font-family: calibri; font-size: medium;" >User Name:</td>
+            <td style="font-family: calibri; font-size: medium;" >
+                <asp:Label ID="lblLoginName" 
+                    runat="server" Text="Label" Font-Italic="False" 
+                        Font-Size="12pt" Font-Bold="False" Font-Names="Calibri" 
+                        ForeColor="Black" ></asp:Label>
+             </td>
+            <td align="right" 
+                style="font-family: Calibri; font-size: medium;" >Department:</td>
+            <td style="font-family: calibri; font-size: medium;"> 
+                <asp:Label ID="lblDepartment" runat="server" Font-Names="Calibri" 
+                        ForeColor="Black" Text="Dep" Font-Italic="False" Font-Size="12pt"></asp:Label></td>
+            <td align="right" 
+                style="font-family: calibri; font-size: medium;" class="style6">City:</td>
+            <td style="font-family: calibri; font-size: medium;"> 
+                <asp:Label ID="lblCity" 
+                    runat="server" Text="Label" Font-Italic="False" 
+                        Font-Names="Calibri" ForeColor="Black" Font-Size="12pt"></asp:Label></td>
+        </tr>
+    </table>
+ <%--       <table >
+            <tr>
+                <td>        
+                   User Name:</td>
+                <td align="left" style="width: 300px" >
+       
+       <asp:Label ID="lblLoginName" runat="server" Text="Label" Font-Italic="True" 
+                        Font-Size="Medium" Font-Bold="False" Font-Names="Bookman Old Style" 
+                        ForeColor="#FF9900" ></asp:Label>
+       
+                </td>
+                <td class="style11">
+       
+                    Department:</td>
+                <td class="style11">
+       
+                    <asp:Label ID="lblDepartment" runat="server" Font-Names="Bookman Old Style" 
+                        ForeColor="#3366CC" Text="0" Font-Italic="False"></asp:Label>
+       
+                </td>
+                <td>City:</td>
+                <td>
+                    <asp:Label ID="lblCity" runat="server" Text="Label" Font-Italic="True" 
+                        Font-Names="Bookman Old Style" ForeColor="#FF9900"></asp:Label></td>
+            </tr>
+           
+        </table>--%>
+        </div>
+        <telerik:RadMenu ID="RadMenu1" runat="server" 
+           
+                        
+                        
+                        style="top: 8px; left: 7px; width: 1000px; z-index:1;height: 31px; margin-top: 0px; margin-bottom: 0px;" 
+                Font-Bold="False" Font-Strikeout="True" 
+                        Font-Underline="True" BorderStyle="None" 
+           Font-Names="Calibri" Width="300px" ForeColor="Black" >
+                <Items>
+                    <telerik:RadMenuItem runat="server" Text="Home"  NavigateUrl="~/Home.aspx" 
+                        Font-Bold="True" Width="200px" height="30px" BackColor="Transparent" BorderStyle="None" 
+                        Font-Names="cablari" Font-Size="12pt" ForeColor="Black"> 
+                    </telerik:RadMenuItem>
+                    <telerik:RadMenuItem runat="server" 
+                        NavigateUrl="~/AddComplain.aspx" Font-Bold="True" Width="200px" 
+                        Font-Names="cablari" Font-Size="12pt" ForeColor="Black"  
+                        Text="Add Complaint"  >
+                    </telerik:RadMenuItem>
+                    <telerik:RadMenuItem runat="server" Text="View Complaint" 
+                        NavigateUrl="~/FrmSearch.aspx" Font-Bold="True" Width="200px" 
+                        Font-Names="cablari" Font-Size="12pt" ForeColor="Black" SkinID="web20">
+                    </telerik:RadMenuItem>
+                    <telerik:RadMenuItem runat="server" Text="Admin" 
+                        NavigateUrl="~/AddComplain.aspx" Font-Bold="True" Width="200px" 
+                        Font-Names="cablari" Font-Size="12pt" ForeColor="Black" SkinID="web20">
+                    </telerik:RadMenuItem>
+                    <telerik:RadMenuItem runat="server" Text="Log Out" 
+                        NavigateUrl="~/LoginForm.aspx" Font-Bold="True" Width="100px" 
+                        Font-Names="cablari" Font-Size="12pt" ForeColor="Black" SkinID="web20">
+                    </telerik:RadMenuItem>
+                </Items>
+                <CollapseAnimation Type="InOutCubic" />
+                <DefaultGroupSettings Flow="Horizontal" Width="1340px" />
+            </telerik:RadMenu>
+       
+     
+        <br />
+        <br />
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+            <div style="border: medium groove #000080; height: 29px; font-family: calibri; font-size: small; font-weight: normal; font-style: normal; color: #FFFFFF; background-color: #000080; width: 1000px;" 
+        align="center">
+    Copyright © 2015 Multinet Pakistan. All Rights Reserved
+            </div>
+        
+        </asp:ContentPlaceHolder>
+    <br />
+    </form>
+    </div>
+</body>
+</html>

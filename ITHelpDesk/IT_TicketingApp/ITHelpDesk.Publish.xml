@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\Testpub" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="\\202.141.239.194\c$\Inetpub\wwwroot\IT_Ticketing_App" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="True" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Resources/blood_drop.png" publishTime="12/22/2015 14:47:42" />
+    <file relUrl="LdapAuthentication.vb" publishTime="04/01/2016 17:23:19" />
+    <file relUrl="Home.aspx.vb" publishTime="01/08/2018 16:35:50" />
+    <file relUrl="Resources/Lense.png" publishTime="12/22/2015 14:47:48" />
+    <file relUrl="AddComplain.aspx.vb" publishTime="01/18/2018 12:20:01" />
+    <file relUrl="Resources/CustomerNetwork.jpg" publishTime="12/22/2015 14:47:44" />
+    <file relUrl="bin/IT_TicketingApp.xml" publishTime="01/18/2018 13:41:55" />
+    <file relUrl="Resources/iconWireless.jpg" publishTime="12/22/2015 14:47:48" />
+    <file relUrl="AddComplain.aspx.designer.vb" publishTime="01/03/2018 18:04:36" />
+    <file relUrl="Resources/Delete.jpg" publishTime="12/22/2015 14:47:44" />
+    <file relUrl="FrmSearch.aspx.designer.vb" publishTime="01/10/2018 12:31:07" />
+    <file relUrl="Resources/Complaint.jpg" publishTime="01/09/2018 12:18:41" />
+    <file relUrl="Resources/ColumnIcon.png" publishTime="12/22/2015 14:47:44" />
+    <file relUrl="My Project/DataSources/System.Data.DataSet.datasource" publishTime="01/12/2018 10:32:15" />
+    <file relUrl="Resources/Lookup.png" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="Resources/GrayMSTech.png" publishTime="12/22/2015 14:47:46" />
+    <file relUrl="MainForm.Master.designer.vb" publishTime="05/23/2017 15:39:31" />
+    <file relUrl="web.config" publishTime="01/18/2018 13:33:34" />
+    <file relUrl="Resources/newbottom.png" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="Resources/E!.png" publishTime="12/22/2015 14:47:46" />
+    <file relUrl="Service References/LDAP/Reference.vb" publishTime="01/17/2018 10:45:21" />
+    <file relUrl="Resources/calendar.gif" publishTime="12/22/2015 14:47:42" />
+    <file relUrl="Resources/MainPage.jpg" publishTime="03/27/2016 01:14:09" />
+    <file relUrl="My Project/Resources.resx" publishTime="05/16/2017 11:37:56" />
+    <file relUrl="Resources/CancelIcon.png" publishTime="12/22/2015 14:47:42" />
+    <file relUrl="Resources/Home.jpg" publishTime="05/15/2017 17:01:25" />
+    <file relUrl="FrmSearch.aspx.vb" publishTime="01/18/2018 13:24:56" />
+    <file relUrl="Classes/ItTicketing_Methods.vb" publishTime="01/15/2018 17:09:55" />
+    <file relUrl="Thanks.aspx.vb" publishTime="01/10/2018 12:57:01" />
+    <file relUrl="Resources/User-icon.png" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="MainForm.Master.vb" publishTime="01/15/2018 19:42:13" />
+    <file relUrl="ConditionalFormattingObject.vb" publishTime="05/19/2017 09:53:13" />
+    <file relUrl="CellFormattingEventArgs.vb" publishTime="05/19/2017 10:04:37" />
+    <file relUrl="Resources/drop1.gif" publishTime="12/22/2015 14:47:46" />
+    <file relUrl="Resources/border_navy.png" publishTime="12/22/2015 14:47:42" />
+    <file relUrl="My Project/Application.myapp" publishTime="12/21/2015 17:09:12" />
+    <file relUrl="Resources/border_navy_dw.png" publishTime="12/22/2015 14:47:42" />
+    <file relUrl="MainForm.Master" publishTime="01/10/2018 12:40:22" />
+    <file relUrl="Resources/Banner.jpg" publishTime="01/05/2018 23:06:13" />
+    <file relUrl="Resources/Clear.jpg" publishTime="12/22/2015 14:47:42" />
+    <file relUrl="Thanks.aspx" publishTime="01/10/2018 12:58:28" />
+    <file relUrl="Resources/iconTDM.png" publishTime="12/22/2015 14:47:46" />
+    <file relUrl="Resources/Close.jpg" publishTime="12/22/2015 14:47:44" />
+    <file relUrl="Resources/Image2.jpg" publishTime="03/27/2016 01:18:59" />
+    <file relUrl="Forwarding.aspx" publishTime="01/10/2018 13:10:50" />
+    <file relUrl="ITHelpDesk.vbproj.user" publishTime="01/17/2018 10:45:27" />
+    <file relUrl="Resources/mnuComplaint.jpg" publishTime="01/09/2018 12:51:53" />
+    <file relUrl="Service References/LDAP/Reference.svcmap" publishTime="01/17/2018 10:45:21" />
+    <file relUrl="LoginForm.aspx.vb" publishTime="01/18/2018 13:41:16" />
+    <file relUrl="Resources/Image1.bmp" publishTime="12/22/2015 14:46:54" />
+    <file relUrl="Resources/VCR_Previous.png" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="My Project/Application.Designer.vb" publishTime="04/14/2016 09:46:47" />
+    <file relUrl="ITHelpDesk.vbproj" publishTime="01/17/2018 10:45:27" />
+    <file relUrl="Resources/logout.jpg" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="Resources/right2.gif" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="Resources/HelpDesk.gif" publishTime="05/15/2017 10:52:05" />
+    <file relUrl="Service References/LDAP/configuration.svcinfo" publishTime="01/17/2018 10:45:21" />
+    <file relUrl="Resources/HelpDesk.jpg" publishTime="03/31/2016 17:45:10" />
+    <file relUrl="My Project/Settings.Designer.vb" publishTime="01/18/2018 13:33:34" />
+    <file relUrl="Resources/Save.jpg" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="Resources/Multinet Management System.jpg" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="Resources/left1.gif" publishTime="12/22/2015 14:47:48" />
+    <file relUrl="Resources/left2.gif" publishTime="12/22/2015 14:47:48" />
+    <file relUrl="bin/IT_TicketingWebService.dll" publishTime="12/22/2015 14:27:52" />
+    <file relUrl="Home.aspx" publishTime="01/10/2018 12:53:16" />
+    <file relUrl="Resources/Delete.png" publishTime="12/22/2015 14:47:44" />
+    <file relUrl="Resources/iconethernet.jpg" publishTime="12/22/2015 14:47:46" />
+    <file relUrl="Resources/VCR_First.png" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="Resources/Black.jpg" publishTime="05/18/2017 09:13:43" />
+    <file relUrl="Resources/AddComplaint.jpg" publishTime="05/16/2017 11:34:00" />
+    <file relUrl="Resources/ForCustomerStatus.jpg" publishTime="12/22/2015 14:47:46" />
+    <file relUrl="Thanks.aspx.designer.vb" publishTime="09/14/2017 18:12:30" />
+    <file relUrl="My Project/AssemblyInfo.vb" publishTime="12/21/2015 17:09:12" />
+    <file relUrl="Resources/bordernew.png" publishTime="12/22/2015 14:47:42" />
+    <file relUrl="Resources/1.jpg" publishTime="12/22/2015 14:47:38" />
+    <file relUrl="Resources/GPON.jpg" publishTime="12/22/2015 14:47:46" />
+    <file relUrl="Resources/creative-background-wallpaper1.jpg" publishTime="12/22/2015 14:47:44" />
+    <file relUrl="My Project/DataSources/System.Data.DataTable.datasource" publishTime="12/22/2015 13:55:34" />
+    <file relUrl="Resources/clear.gif" publishTime="12/22/2015 14:47:42" />
+    <file relUrl="Service References/LoginService/configuration91.svcinfo" publishTime="01/17/2018 10:43:15" />
+    <file relUrl="bin/IT_TicketingApp.dll" publishTime="01/18/2018 13:41:55" />
+    <file relUrl="Resources/CustomerComplain.jpg" publishTime="12/22/2015 14:47:44" />
+    <file relUrl="My Project/Settings.settings" publishTime="01/18/2018 13:33:34" />
+    <file relUrl="Resources/viw.jpg" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="Resources/VCR_Next.png" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="Resources/wave.png" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="Resources/mnuComplaint.gif" publishTime="01/09/2018 12:53:51" />
+    <file relUrl="Resources/AddComplaint1.jpg" publishTime="05/16/2017 12:07:33" />
+    <file relUrl="Resources/UserLogin.png" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="Service References/LoginService/BSS_Service.wsdl" publishTime="01/17/2018 10:43:15" />
+    <file relUrl="Resources/BackgroundImage.png" publishTime="12/22/2015 14:47:40" />
+    <file relUrl="AddComplain.aspx" publishTime="01/05/2018 23:10:30" />
+    <file relUrl="Resources/Edit.jpg" publishTime="12/22/2015 14:47:46" />
+    <file relUrl="Resources/login-here.jpg" publishTime="03/31/2016 17:49:09" />
+    <file relUrl="Resources/View.jpg" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="Resources/ok_Icon.png" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="Resources/TableTitle.jpg" publishTime="05/18/2017 16:27:22" />
+    <file relUrl="Classes/clsDBAccess.vb" publishTime="05/11/2017 18:07:20" />
+    <file relUrl="Resources/TitalPic.jpg" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="Resources/BackgroundImage.jpg" publishTime="12/22/2015 14:47:40" />
+    <file relUrl="Resources/VCR_Last.png" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="Service References/LoginService/configuration.svcinfo" publishTime="01/17/2018 10:43:15" />
+    <file relUrl="Resources/right1.gif" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="My Project/Resources.Designer.vb" publishTime="05/16/2017 11:37:56" />
+    <file relUrl="Resources/drop2.gif" publishTime="12/22/2015 14:47:46" />
+    <file relUrl="Resources/Background.gif" publishTime="05/03/2016 13:27:28" />
+    <file relUrl="Resources/MSTech.png" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="Service References/LoginService/Reference.vb" publishTime="01/17/2018 10:43:18" />
+    <file relUrl="Resources/Untitled.png" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="Resources/banner.gif" publishTime="05/15/2017 15:38:42" />
+    <file relUrl="Resources/VE.png" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="Service References/LoginService/Reference.svcmap" publishTime="01/17/2018 10:43:15" />
+    <file relUrl="Resources/it-support-princetonwebservices.jpg" publishTime="12/22/2015 14:47:48" />
+    <file relUrl="Resources/pleasewait.gif" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="Home.aspx.designer.vb" publishTime="01/10/2018 12:53:14" />
+    <file relUrl="Resources/ArrowHome.jpg" publishTime="12/22/2015 14:47:40" />
+    <file relUrl="Resources/spectacles.png" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="Forwarding.aspx.designer.vb" publishTime="01/10/2018 13:10:50" />
+    <file relUrl="Resources/MPPLLOGO.png" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="bin/Telerik.Web.UI.dll" publishTime="12/22/2015 12:25:24" />
+    <file relUrl="Service References/LDAP/webService.wsdl" publishTime="01/17/2018 10:45:21" />
+    <file relUrl="Resources/camera_unmount.png" publishTime="12/22/2015 14:47:42" />
+    <file relUrl="Resources/Logo.png" publishTime="12/22/2015 14:47:48" />
+    <file relUrl="Resources/iconWireless.gif" publishTime="12/22/2015 14:47:48" />
+    <file relUrl="LoginForm.aspx.designer.vb" publishTime="05/15/2017 15:28:22" />
+    <file relUrl="FrmSearch.aspx" publishTime="01/10/2018 12:32:42" />
+    <file relUrl="Resources/Monogram.jpg" publishTime="03/28/2016 15:02:14" />
+    <file relUrl="LoginForm.aspx" publishTime="01/09/2018 12:22:49" />
+    <file relUrl="Service References/LoginService/BSS_Service.disco" publishTime="01/17/2018 10:43:15" />
+    <file relUrl="Resources/Back-Arrow.jpg" publishTime="12/22/2015 14:47:40" />
+    <file relUrl="Service References/LDAP/webService.disco" publishTime="01/17/2018 10:45:21" />
+    <file relUrl="Forwarding.aspx.vb" publishTime="01/16/2018 14:35:28" />
+    <file relUrl="Classes/MainServiceMethod.vb" publishTime="01/17/2018 10:36:18" />
+    <file relUrl="Resources/Search.jpg" publishTime="12/22/2015 14:47:50" />
+    <file relUrl="Resources/backgroungImage1.jpg" publishTime="12/22/2015 14:47:42" />
+    <file relUrl="bin/IT_TicketingApp.pdb" publishTime="01/18/2018 13:41:55" />
+    <file relUrl="Service References/LDAP/configuration91.svcinfo" publishTime="01/17/2018 10:45:21" />
+  </publishProfile>
+  <publishProfile publishUrl="C:\inetpub\wwwroot\ITHelpDesk" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile2" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="False" />
+  <publishProfile publishUrl="C:\inetpub\wwwroot\ITHelpDesk" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="False" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="True" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="True" profileName="Profile3" publishMethod="FTP" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="False" />
+</publishData>
